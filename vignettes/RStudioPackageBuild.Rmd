@@ -9,6 +9,12 @@ output: html_notebook
 #   %\VignetteEngine{knitr::rmarkdown}
 #   \usepackage[utf8]{inputenc}
 # ---
+This project will go here:
+`https://github.com/tnearey/RPackageCreationDemo.git`
+
+This was originally an Rmd file in the R directory. It was then converted to current file in the vignettes directory following the steps in section *Adding a vignette or two below*. Subsequent editing took place in the vignettes folder.
+
+See: 
 
  https://github.com/jimhester/presentations/tree/master/2018_02_03-You-can-make-a-package-in-20-minutes/#_readme  
  video:   
@@ -124,10 +130,11 @@ You can build your vignette with the devtools::build_vignettes() function. The r
 https://www.youtube.com/watch?v=E2d91v1Twcc
 
 Steps:
-* Go to RStudio Build and configure build tools for Github
-* Create new repository with appropriate name
-* Restart as prompted in RStudio
-* Go to Git Pane (upper right panel) and items to stage.
-* Click Commit button in Git panel-pane toolbar
-* Add the commit message on popup screen and PUSH the changes.
+1, Go to RStudio Build and configure build tools for Github
+2. Create new repository with appropriate name
+3. Restart as prompted in RStudio
+4.  Go to Git Pane (upper right panel) and items to stage.
+5.  Click Commit button in Git panel-pane toolbar
+6.  Add the commit message on popup screen and PUSH the changes.
+7.  If you can't PUSH to repository in 2, copy the commands in  the Github new repositoey pane under `…or push an existing repository from the command line` and run then in terminal.
 
