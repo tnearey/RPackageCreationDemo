@@ -6,7 +6,7 @@ Authors@R:
            family = "Nearey",
            role = c("aut", "cre"),
            email = "first.last@example.com")
-Description: What the package does (one paragraph).
+Description: Demos building a package in RStudio with many links.
 License: mit 
 Encoding: UTF-8
 LazyData: true

@@ -122,5 +122,12 @@ You can build your vignette with the devtools::build_vignettes() function. The r
 ```
 ### Github ###
 https://www.youtube.com/watch?v=E2d91v1Twcc
+
 Steps:
-Create new repository
+* Go to RStudio Build and configure build tools for Github
+* Create new repository with appropriate name
+* Restart as prompted in RStudio
+* Go to Git Pane (upper right panel) and items to stage.
+* Click Commit button in Git panel-pane toolbar
+* Add the commit message on popup screen and PUSH the changes.
+
