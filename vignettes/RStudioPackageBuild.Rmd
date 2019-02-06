@@ -129,6 +129,9 @@ You can build your vignette with the devtools::build_vignettes() function. The r
 ### Github ###
 https://www.youtube.com/watch?v=E2d91v1Twcc
 
+And also: https://www.rstudio.com/resources/webinars/rstudio-essentials-webinar-series-managing-part-2/
+
+
 Steps:
 1, Go to RStudio Build and configure build tools for Github
 2. Create new repository with appropriate name
